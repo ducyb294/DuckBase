@@ -1,7 +1,12 @@
 {
     "name": "DuckBase.Scripts",
     "rootNamespace": "TheOneStudio",
-    "references": [],
+    "references": [
+        "Unity.TextMeshPro",
+        "UniTask",
+        "Zenject",
+        "GameFoundation.Utilities"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
