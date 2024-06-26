@@ -1,9 +1,9 @@
-﻿namespace TheOneStudio.DuckBase.Scripts.Utilities
+﻿namespace TheOneStudio.DuckBase.Scripts.Extensions
 {
     using System.Linq;
     using UnityEngine;
 
-    public static class TransformUtils
+    public static class TransformExtensions
     {
         /// <summary> 
         /// Rotates the current transform toward the target transform just by Y axis 
